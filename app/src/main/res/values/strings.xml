@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="sendMessage">SEND NOW</string>
+    <string name="receiveMessage">RECEIVE NOW</string>
+    <string name="deleteMessage">DELETE NOW</string>
+
+</resources>
